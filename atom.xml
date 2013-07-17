@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-17T17:18:23-06:00</updated>
+  <updated>2013-07-17T17:28:30-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -18,15 +18,6 @@
     <link href="http://DebFrey.github.io/blog/2013/07/17/grandma-geek-learns-ruby-on-rails/"/>
     <updated>2013-07-17T14:19:00-06:00</updated>
     <id>http://DebFrey.github.io/blog/2013/07/17/grandma-geek-learns-ruby-on-rails</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[--trace]]></title>
-    <link href="http://DebFrey.github.io/blog/2013/07/17/trace/"/>
-    <updated>2013-07-17T10:03:00-06:00</updated>
-    <id>http://DebFrey.github.io/blog/2013/07/17/trace</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
