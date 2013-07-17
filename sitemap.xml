@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://DebFrey.github.io/blog/2013/07/15/my-first-ruby-post/</loc>
+        <lastmod>2013-07-16T20:18:29-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://DebFrey.github.io/blog/2013/07/17/trace/</loc>
+        <lastmod>2013-07-17T10:03:17-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://DebFrey.github.io/blog/2013/07/17/grandma-geek-learns-ruby-on-rails/</loc>
+        <lastmod>2013-07-17T14:19:36-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://DebFrey.github.io/blog/archives/</loc>
+        <lastmod>2013-07-17T14:19:36-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://DebFrey.github.io/</loc>
+        <lastmod>2013-07-17T14:19:36-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://DebFrey.github.io/robots.txt</loc>
+        <lastmod>2013-07-15T20:56:45-06:00</lastmod>
+    </url>
+</urlset>

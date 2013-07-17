@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
+  <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
+  <link href="http://DebFrey.github.io/"/>
+  <updated>2013-07-17T17:18:23-06:00</updated>
+  <id>http://DebFrey.github.io/</id>
+  <author>
+    <name><![CDATA[Deb Frey]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
+    <link href="http://DebFrey.github.io/blog/2013/07/17/grandma-geek-learns-ruby-on-rails/"/>
+    <updated>2013-07-17T14:19:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/17/grandma-geek-learns-ruby-on-rails</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[--trace]]></title>
+    <link href="http://DebFrey.github.io/blog/2013/07/17/trace/"/>
+    <updated>2013-07-17T10:03:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/17/trace</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My First Ruby Post]]></title>
+    <link href="http://DebFrey.github.io/blog/2013/07/15/my-first-ruby-post/"/>
+    <updated>2013-07-15T21:10:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/15/my-first-ruby-post</id>
+    <content type="html"><![CDATA[<p>This has been a fun day in Jason&rsquo;s class.  Woohoo</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ pwd</span></code></pre></td></tr></table></div></figure>
+
+
+<p>I cannot wait until Wednesday.  This was a really fun night.
+We learned how to use Ruby Mine, Flycut, Moom and Evernote as
+well as how to write our first blog post.</p>
+
+<p>I guess I am more of a step by step learning person.  It is like using
+whole words instead of phonics.  I was great at phonics
+but had trouble with the whole word language.</p>
+]]></content>
+  </entry>
+  
+</feed>
