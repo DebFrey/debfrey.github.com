@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-17T18:33:38-06:00</updated>
+  <updated>2013-07-17T18:51:36-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -32,6 +32,14 @@ so I could do something fun like start on my homework.
 I did struggle some with getting everything right,
 but ended up asking for help, which is very important
 when you are first learning.</p>
+
+<p><code>ruby Cat class
+training my cat to bark
+  def speak
+   puts "woof"
+  end
+ end
+</code></p>
 ]]></content>
   </entry>
   
