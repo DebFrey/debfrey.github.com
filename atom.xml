@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-17T20:15:16-06:00</updated>
+  <updated>2013-07-19T12:27:16-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -15,10 +15,32 @@
   
   <entry>
     <title type="html"><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
-    <link href="http://DebFrey.github.io/blog/2013/07/17/grandma-geek-learns-ruby-on-rails/"/>
-    <updated>2013-07-17T18:33:00-06:00</updated>
-    <id>http://DebFrey.github.io/blog/2013/07/17/grandma-geek-learns-ruby-on-rails</id>
+    <link href="http://DebFrey.github.io/blog/2013/07/19/grandma-geek-learns-ruby-on-rails/"/>
+    <updated>2013-07-19T12:27:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/19/grandma-geek-learns-ruby-on-rails</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
+    <link href="http://DebFrey.github.io/blog/2013/07/19/grandma-geek-learns-ruby-on-rails/"/>
+    <updated>2013-07-19T12:19:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/19/grandma-geek-learns-ruby-on-rails</id>
+    <content type="html"><![CDATA[<p>Spent most of the morning working on Pivotal Tracker Assignments.
+I learned how to make directories, how to move around in the
+directories using the cd command.</p>
+
+<p>I also learned how to use pwd to find out where I was.</p>
+
+<p>And finally I spent time learning to use one command to cd into
+whatever directory I needed to be in.</p>
+
+<p>I don&rsquo;t understand GUI files so will take a break.</p>
+
+<p>I did find out that you can only make so many comments in
+Pivotal Tracker.  I ended up combining my answers to the
+&ldquo;Learn More&rdquo; questions because PT kept freezing up.</p>
 ]]></content>
   </entry>
   
