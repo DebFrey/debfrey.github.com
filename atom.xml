@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-20T08:58:34-06:00</updated>
+  <updated>2013-07-20T13:11:52-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -46,15 +46,6 @@ It logs all your changes and why you made them</p>
 
 <p>The three areas of Gig are:
 working directory,staging area, git respository</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What I Learned About Agile]]></title>
-    <link href="http://DebFrey.github.io/blog/2013/07/20/what-i-learned-about-agile/"/>
-    <updated>2013-07-20T08:52:00-06:00</updated>
-    <id>http://DebFrey.github.io/blog/2013/07/20/what-i-learned-about-agile</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
