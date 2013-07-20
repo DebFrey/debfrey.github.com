@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-19T23:32:42-06:00</updated>
+  <updated>2013-07-20T08:30:16-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -14,11 +14,29 @@
 
   
   <entry>
+    <title type="html"><![CDATA[What I Learned About Agile]]></title>
+    <link href="http://DebFrey.github.io/blog/2013/07/20/what-i-learned-about-agile/"/>
+    <updated>2013-07-20T08:30:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/20/what-i-learned-about-agile</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
     <link href="http://DebFrey.github.io/blog/2013/07/19/grandma-geek-learns-ruby-on-rails/"/>
     <updated>2013-07-19T23:32:00-06:00</updated>
     <id>http://DebFrey.github.io/blog/2013/07/19/grandma-geek-learns-ruby-on-rails</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>What I learned about Agile</p>
+
+<p>Agile delivers something that is valuable every week
+-Breaks big problems into smaller more digestible problems
+-It doesn’t sweat the small stuff
+-What you deliver really works
+-Always looking for feedback
+-Change course when necessary
+-You are held accountable
+-Product owner tells you what to do.  He/she controls the work and can accept or reject it.</p>
 ]]></content>
   </entry>
   
