@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-19T23:30:14-06:00</updated>
+  <updated>2013-07-19T23:32:42-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -16,29 +16,9 @@
   <entry>
     <title type="html"><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
     <link href="http://DebFrey.github.io/blog/2013/07/19/grandma-geek-learns-ruby-on-rails/"/>
-    <updated>2013-07-19T22:59:00-06:00</updated>
+    <updated>2013-07-19T23:32:00-06:00</updated>
     <id>http://DebFrey.github.io/blog/2013/07/19/grandma-geek-learns-ruby-on-rails</id>
-    <content type="html"><![CDATA[<p>What I learned about agile</p>
-
-<ul>
-<li>Agile breaks big problems into smaller ones</li>
-<li>Don&rsquo;t sweat the small stuff</li>
-<li>What the customer receives works</li>
-<li>The customer decides the prioritization of a project</li>
-<li>The product owner tells you what to do.  Who controls the
-work can either accept or reject the work.  (I understand
-rejection)</li>
-</ul>
-
-
-<!-- more -->
-
-
-<p>What I learned about git tonight.  Never type get.
-When I do that a train rolls across my screen and says
-&ldquo;type git not get Deb&rdquo;</p>
-
-<p>Steps to &ldquo;gitting&rdquo; started.  Love Jason&rsquo;s PP notes.</p>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
