@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-20T08:52:14-06:00</updated>
+  <updated>2013-07-20T08:58:34-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -28,6 +28,24 @@
 -Change course when necessary
 -You are held accountable
 -Product owner tells you what to do.  He/she controls the work and can accept or reject it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Is It Git or Get?]]></title>
+    <link href="http://DebFrey.github.io/blog/2013/07/20/is-it-git-or-get/"/>
+    <updated>2013-07-20T08:56:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/20/is-it-git-or-get</id>
+    <content type="html"><![CDATA[<p>“Gitting” started on git.  I figure if I practice spelling get wrong I will finally git it right.</p>
+
+<p>Never type in get.  When I do a train goes across my screen and says type git not get, Deb.  Thanks, Jason.</p>
+
+<p>Git is a revision control system
+Allows the developers to share the changes they have made
+It logs all your changes and why you made them</p>
+
+<p>The three areas of Gig are:
+working directory,staging area, git respository</p>
 ]]></content>
   </entry>
   
