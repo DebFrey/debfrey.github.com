@@ -2,12 +2,17 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://DebFrey.github.io
+title: Grandma Geek Learns Ruby on Rails
+subtitle: My Adventures Riding the Rails
+author: Deb Frey
 simple_search: http://google.com/search
-description:
+description:  Balancing a full time job with a full immersion Ruby on Rails class
+
+
+
+
+
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
