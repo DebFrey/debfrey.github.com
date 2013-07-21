@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-20T13:11:52-06:00</updated>
+  <updated>2013-07-20T19:10:14-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -32,6 +32,15 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[More About Git]]></title>
+    <link href="http://DebFrey.github.io/blog/2013/07/20/more-about-git/"/>
+    <updated>2013-07-20T19:06:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/20/more-about-git</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Is It Git or Get?]]></title>
     <link href="http://DebFrey.github.io/blog/2013/07/20/is-it-git-or-get/"/>
     <updated>2013-07-20T08:56:00-06:00</updated>
@@ -40,12 +49,11 @@
 
 <p>Never type in get.  When I do a train goes across my screen and says type git not get, Deb.  Thanks, Jason.</p>
 
-<p>Git is a revision control system
-Allows the developers to share the changes they have made
-It logs all your changes and why you made them</p>
+<p>Git is a revision control system that allows
+the developer to share the changes they have made.
+It logs all changes and why they were made.</p>
 
-<p>The three areas of Gig are:
-working directory,staging area, git respository</p>
+<p>The three areas of Gig are working directory,staging area, git repository</p>
 ]]></content>
   </entry>
   
