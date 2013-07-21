@@ -4,7 +4,7 @@
   <title><![CDATA[Grandma Geek Learns Ruby on Rails]]></title>
   <link href="http://DebFrey.github.io/atom.xml" rel="self"/>
   <link href="http://DebFrey.github.io/"/>
-  <updated>2013-07-20T19:16:28-06:00</updated>
+  <updated>2013-07-21T09:16:46-06:00</updated>
   <id>http://DebFrey.github.io/</id>
   <author>
     <name><![CDATA[Deb Frey]]></name>
@@ -32,26 +32,38 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Is It Git or Get?]]></title>
-    <link href="http://DebFrey.github.io/blog/2013/07/20/is-it-git-or-get/"/>
-    <updated>2013-07-20T19:13:00-06:00</updated>
-    <id>http://DebFrey.github.io/blog/2013/07/20/is-it-git-or-get</id>
-    <content type="html"><![CDATA[<p>“Gitting” started on git. I figure if I practice spelling get wrong I will finally git it right.</p>
+    <title type="html"><![CDATA[More information on Git]]></title>
+    <link href="http://DebFrey.github.io/blog/2013/07/20/more-information-on-git/"/>
+    <updated>2013-07-20T19:18:00-06:00</updated>
+    <id>http://DebFrey.github.io/blog/2013/07/20/more-information-on-git</id>
+    <content type="html"><![CDATA[<p>make changes to a file</p>
 
-<p>I do my best to avoid typing get. When I type in get a train goes across my screen and says type git not get, Deb. Thanks, Jason.</p>
+<pre><code> git add --plus what files you actually changed     # Stages our changes
 
-<p>Git is a revision control system that allows the developers to share the changes they have made. It logs all your changes and why you made them</p>
+ git commit _m "changed something"    (# Commits our changes)
 
-<p>The three areas of Gig are: working directory,staging area, git repository.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[More About Git]]></title>
-    <link href="http://DebFrey.github.io/blog/2013/07/20/more-about-git/"/>
-    <updated>2013-07-20T19:06:00-06:00</updated>
-    <id>http://DebFrey.github.io/blog/2013/07/20/more-about-git</id>
-    <content type="html"><![CDATA[
+ git fetch upstream
+</code></pre>
+
+<p>If changes on the branch we&rsquo;re based on (master)</p>
+
+<pre><code> git rebase upstream/master
+</code></pre>
+
+<p>If conflicts:</p>
+
+<pre><code> git mergetool
+
+ enter diff
+
+ git rebase --continue
+</code></pre>
+
+<p>I also learned today that Fork is a Github thing not a git command.</p>
+
+<p>Although this was not as easy as it looks we did some paired programming
+and learned how to modify a file, how to pull in upstream changes and then how to
+resolve the conflict.</p>
 ]]></content>
   </entry>
   

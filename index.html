@@ -118,7 +118,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2013/07/20/is-it-git-or-get/">Is It Git or Get?</a></h1>
+      <h1 class="entry-title"><a href="/blog/2013/07/20/more-information-on-git/">More Information on Git</a></h1>
     
     
       <p class="meta">
@@ -134,56 +134,41 @@
   
 
 
-<time datetime="2013-07-20T19:13:00-06:00" pubdate data-updated="true">Jul 20<span>th</span>, 2013</time>
+<time datetime="2013-07-20T19:18:00-06:00" pubdate data-updated="true">Jul 20<span>th</span>, 2013</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>“Gitting” started on git. I figure if I practice spelling get wrong I will finally git it right.</p>
+  <div class="entry-content"><p>make changes to a file</p>
 
-<p>I do my best to avoid typing get. When I type in get a train goes across my screen and says type git not get, Deb. Thanks, Jason.</p>
+<pre><code> git add --plus what files you actually changed     # Stages our changes
 
-<p>Git is a revision control system that allows the developers to share the changes they have made. It logs all your changes and why you made them</p>
+ git commit _m "changed something"    (# Commits our changes)
 
-<p>The three areas of Gig are: working directory,staging area, git repository.</p>
-</div>
-  
-  
+ git fetch upstream
+</code></pre>
 
+<p>If changes on the branch we&rsquo;re based on (master)</p>
 
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/07/20/more-about-git/">More About Git</a></h1>
-    
-    
-      <p class="meta">
-        
+<pre><code> git rebase upstream/master
+</code></pre>
 
+<p>If conflicts:</p>
 
+<pre><code> git mergetool
 
+ enter diff
 
+ git rebase --continue
+</code></pre>
 
+<p>I also learned today that Fork is a Github thing not a git command.</p>
 
-
-
-  
-
-
-<time datetime="2013-07-20T19:06:00-06:00" pubdate data-updated="true">Jul 20<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">
+<p>Although this was not as easy as it looks we did some paired programming
+and learned how to modify a file, how to pull in upstream changes and then how to
+resolve the conflict.</p>
 </div>
   
   
@@ -314,11 +299,7 @@ when you are first learning.</p>
       </li>
     
       <li class="post">
-        <a href="/blog/2013/07/20/is-it-git-or-get/">Is It Git or Get?</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/07/20/more-about-git/">More About Git</a>
+        <a href="/blog/2013/07/20/more-information-on-git/">More information on Git</a>
       </li>
     
       <li class="post">

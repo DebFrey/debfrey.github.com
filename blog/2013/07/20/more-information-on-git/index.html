@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Is It Git or Get? - Grandma Geek Learns Ruby on Rails</title>
+  <title>More information on Git - Grandma Geek Learns Ruby on Rails</title>
   <meta name="author" content="Deb Frey">
 
   
-  <meta name="description" content="“Gitting” started on git. I figure if I practice spelling get wrong I will finally git it right. I do my best to avoid typing get. When I type in get &hellip;">
+  <meta name="description" content="make changes to a file git add --plus what files you actually changed # Stages our changes git commit _m "changed something" (# Commits our changes) &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://DebFrey.github.io/blog/2013/07/20/is-it-git-or-get">
+  <link rel="canonical" href="http://DebFrey.github.io/blog/2013/07/20/more-information-on-git">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Grandma Geek Learns Ruby on Rails" type="application/atom+xml">
@@ -68,7 +68,7 @@
   
   <header>
     
-      <h1 class="entry-title">Is It Git or Get?</h1>
+      <h1 class="entry-title">More Information on Git</h1>
     
     
       <p class="meta">
@@ -84,20 +84,41 @@
   
 
 
-<time datetime="2013-07-20T19:13:00-06:00" pubdate data-updated="true">Jul 20<span>th</span>, 2013</time>
+<time datetime="2013-07-20T19:18:00-06:00" pubdate data-updated="true">Jul 20<span>th</span>, 2013</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>“Gitting” started on git. I figure if I practice spelling get wrong I will finally git it right.</p>
+<div class="entry-content"><p>make changes to a file</p>
 
-<p>I do my best to avoid typing get. When I type in get a train goes across my screen and says type git not get, Deb. Thanks, Jason.</p>
+<pre><code> git add --plus what files you actually changed     # Stages our changes
 
-<p>Git is a revision control system that allows the developers to share the changes they have made. It logs all your changes and why you made them</p>
+ git commit _m "changed something"    (# Commits our changes)
 
-<p>The three areas of Gig are: working directory,staging area, git repository.</p>
+ git fetch upstream
+</code></pre>
+
+<p>If changes on the branch we&rsquo;re based on (master)</p>
+
+<pre><code> git rebase upstream/master
+</code></pre>
+
+<p>If conflicts:</p>
+
+<pre><code> git mergetool
+
+ enter diff
+
+ git rebase --continue
+</code></pre>
+
+<p>I also learned today that Fork is a Github thing not a git command.</p>
+
+<p>Although this was not as easy as it looks we did some paired programming
+and learned how to modify a file, how to pull in upstream changes and then how to
+resolve the conflict.</p>
 </div>
 
 
@@ -120,7 +141,7 @@
   
 
 
-<time datetime="2013-07-20T19:13:00-06:00" pubdate data-updated="true">Jul 20<span>th</span>, 2013</time>
+<time datetime="2013-07-20T19:18:00-06:00" pubdate data-updated="true">Jul 20<span>th</span>, 2013</time>
       
 
 
@@ -128,7 +149,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://DebFrey.github.io/blog/2013/07/20/is-it-git-or-get/" data-via="" data-counturl="http://DebFrey.github.io/blog/2013/07/20/is-it-git-or-get/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://DebFrey.github.io/blog/2013/07/20/more-information-on-git/" data-via="" data-counturl="http://DebFrey.github.io/blog/2013/07/20/more-information-on-git/" >Tweet</a>
   
   
   
@@ -137,7 +158,7 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2013/07/20/more-about-git/" title="Previous Post: More About Git">&laquo; More About Git</a>
+        <a class="basic-alignment left" href="/blog/2013/07/19/grandma-geek-learns-ruby-on-rails/" title="Previous Post: Grandma Geek Learns Ruby on Rails">&laquo; Grandma Geek Learns Ruby on Rails</a>
       
       
         <a class="basic-alignment right" href="/blog/2013/07/20/grandma-geek-learns-ruby-on-rails/" title="Next Post: Grandma Geek Learns Ruby on Rails">Grandma Geek Learns Ruby on Rails &raquo;</a>
@@ -160,11 +181,7 @@
       </li>
     
       <li class="post">
-        <a href="/blog/2013/07/20/is-it-git-or-get/">Is It Git or Get?</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/07/20/more-about-git/">More About Git</a>
+        <a href="/blog/2013/07/20/more-information-on-git/">More information on Git</a>
       </li>
     
       <li class="post">
